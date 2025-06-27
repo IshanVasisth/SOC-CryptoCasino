@@ -5,7 +5,7 @@ I followed it up with cyfrin updraft's blockchain basics course. This introduced
 
 The second week was all about learning solidity and writing your first smart contract. I leant the basic syntaxes used in solidity. I followed cryptozombies course for the first part but then i switched to cyfrin updraft's solidity course. I also referred to the official solidity documentation. There was no exact assignment given as much by the mentor. 
 
-So i asked chatGPT for an assignmnet to write a basic smart contract and using the help of remix environment i wrote my first smart contract. This is the  assignment : 
+So i asked chatGPT for an assignmnet to write a basic smart contract and using the help of remix environment i wrote my first smart contract and cleaned the code using chatGPT. This is the  assignment : 
 
 🧪 Smart Contract Assignment – Solidity (Week 2)
 Contract: SavingsPool
@@ -43,4 +43,4 @@ event Deposited(address, uint)
 
 event Withdrawn(address, uint)
 
-
+##I have uploaded the source code of the assignement.
